@@ -13059,7 +13059,8 @@ const ALLOWED_PROJECTS = "allowed-projects";
 const BLOCKED_PROJECTS = "blocked-projects";
 
 ;// CONCATENATED MODULE: ./src/constants/requests.ts
-const BASE_URL = "https://github-qa.integrations.asana.plus/custom/v1";
+//const BASE_URL = "https://github-qa.integrations.asana.plus/custom/v1";
+const BASE_URL = "https://github-beta.integrations.asana.plus/custom/v1";
 const ACTION_URL = "actions/widget";
 const RETRIES = 3;
 const RETRY_DELAY = 1000;
